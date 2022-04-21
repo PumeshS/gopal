@@ -1,6 +1,4 @@
 this is file text
 <<<<<<< HEAD
 Push code to BranchA
-=======
-adding more text
->>>>>>> origin/BranchB
+
